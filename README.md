@@ -14,19 +14,6 @@
 
 [百度]（https://www.baidu.com)
 
-```
-print(hello xinxisuyang)
-```
-
-```
-a=1
-b=1
-n=int(input("n= "))
-for i in range(n-1):
-    a,b=b,a+b
-    print(a)
-```
-
 | 姓名 | 年龄 |
 | ---- | ---- |
 | 孙华 | 19   |
@@ -34,4 +21,16 @@ for i in range(n-1):
 - 信息素养的内容
 - 信息素养实践的意义
 - 备注：一班 孙华 2020012065
+
+`print`
+
+```
+print(hello word)
+```
+
+
+
+
+
+
 
